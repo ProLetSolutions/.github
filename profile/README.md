@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/ProLetSolutionLogo.jpeg" alt="ProLet Solution Logo" width="600">
+  <img src="assets/ProLetSolutionsLogo.png" alt="ProLet Solution Logo" width="600">
   <h1>Welcome to ProLet Solution</h1>
 </div>
 
