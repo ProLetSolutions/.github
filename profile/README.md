@@ -1,8 +1,10 @@
-# ProLetSolution: Where Horsepower Meets High-Tech
 
-![ProLetSolution Logo](.github/profile/images/ProLetSolutionLogo.jpeg)
+<div align="center">
+  <img src="assets/ProLetSolutionLogo.jpeg" alt="ProLet Solution Logo" width="600">
+  <h1>Welcome to ProLet Solution</h1>
+</div>
 
-Welcome to **ProLetSolution**. We are a multidisciplinary collective of engineers, makers, and enthusiasts where digital precision crashes head-on into greasy reality. We don't just solve problems; we build the solutions, usually to the rhythm of a wrench turning or a laser firing.
+We are a multidisciplinary collective of engineers, makers, and enthusiasts where digital precision crashes head-on into greasy reality. We don't just solve problems; we build the solutions, usually to the rhythm of a wrench turning or a laser firing.
 
 Our core mission is simple: to make things go faster, work smarter, and look better—whether it's on a racetrack, a server rack, or a workbench.
 
