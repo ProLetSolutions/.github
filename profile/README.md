@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="assets/ProLetSolutionsLogo.png" alt="ProLet Solution Logo" width="600">
-  <h1>Welcome to ProLet Solution</h1>
+  <img src="assets/ProLetSolutionsLogo.png" alt="ProLet Solutions Logo" width="600">
+  <h1>Welcome to ProLet Solutions</h1>
 </div>
 
-We are a multidisciplinary collective of engineers, makers, and enthusiasts where digital precision crashes head-on into greasy reality. We don't just solve problems; we build the solutions, usually to the rhythm of a wrench turning or a laser firing.
+We are a multidisciplinary collective of engineers, makers, and enthusiasts where digital precision crashes head-on into greasy reality. We don't just solve problems; we build the Solutions, usually to the rhythm of a wrench turning or a laser firing.
 
 Our core mission is simple: to make things go faster, work smarter, and look better—whether it's on a racetrack, a server rack, or a workbench.
 
@@ -31,4 +31,4 @@ We use the tools of modern manufacturing and the knowledge of old-school mechani
 
 > **In short:** we turn ideas into prototypes, prototypes into running machines, and (sometimes) running machines into shitty running machines that we fix again.
 
-**ProLetSolution.** We have the technology, the tools, and the (mostly) functional cars to make it happen.
+**ProLetSolutions.** We have the technology, the tools, and the (mostly) functional cars to make it happen.
